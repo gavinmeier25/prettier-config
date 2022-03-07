@@ -1,5 +1,5 @@
 {
-  "name": "gavin/prettier-config",
+  "name": "gavins-prettier",
   "version": "1.0.1",
   "description": "Prettier configuration that is shareable for all of Gavin Meier's projects",
   "main": "index.json",
